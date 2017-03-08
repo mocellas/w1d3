@@ -1,7 +1,8 @@
-//
+//x
 //
 //
 var isWorthIt = function (threshold){
+
   console.log("Is this worth" + this.isWorthIt)
 }
 
